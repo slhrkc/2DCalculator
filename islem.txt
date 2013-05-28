@@ -1,0 +1,14 @@
+Birinci Sayi = 6.0 Ýkinci Sayý = 5.0 Ýslem Sonucu = 1.0 Ýslem =  Çikarma
+Birinci Sayi = 1.0 Ýkinci Sayý = 3.0 Ýslem Sonucu = 3.0 Ýslem =  Çarpma
+Birinci Sayi = 3.0 Ýkinci Sayý = 12.0 Ýslem Sonucu = 15.0 Ýslem =  Toplama
+Birinci Sayi = 15.0 Ýslem Sonucu = 0.9659258262890683 Ýslem =  Cosinus
+Birinci Sayi = 0.9659258262890683 Ýslem Sonucu = 0.016857787441617953 Ýslem =  Sinüs
+Birinci Sayi = 0.016857787441617953 Ýslem Sonucu = -4.08294256624076 Ýslem =  Doðal Logaritma
+Birinci Sayi = -4.08294256624076 Ýslem Sonucu = 0.9974620241173026 Ýslem =  Cosinus
+Birinci Sayi = 0.9974620241173026 Ýslem Sonucu = 0.01740811713118745 Ýslem =  Sinüs
+Birinci Sayi = 0.01740811713118745 Ýslem Sonucu = -4.050818679747404 Ýslem =  Doðal Logaritma
+Birinci Sayi = 4.0 Ýkinci Sayý = 65.0 Ýslem Sonucu = -61.0 Ýslem =  Çikarma
+Birinci Sayi = -61.0 Ýslem Sonucu = NaN Ýslem =  Doðal Logaritma
+Birinci Sayi = NaN Ýslem Sonucu = NaN Ýslem =  Cosinus
+Birinci Sayi = NaN Ýslem Sonucu = NaN Ýslem =  Sinüs
+Birinci Sayi = 32.0 Ýkinci Sayý = 65.0 Ýslem Sonucu = -33.0 Ýslem =  Çikarma
